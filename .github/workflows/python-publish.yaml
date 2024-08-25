@@ -48,4 +48,4 @@ jobs:
         verify-metadata: true
         skip-existing: false
         verbose: false
-        print-hash: false
+        print-hash: false
