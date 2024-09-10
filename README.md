@@ -39,11 +39,3 @@ In summary, setup.cfg is used by setuptools to configure the packaging and insta
 4. selenium
 5. behave
 6. doctest
-
-# check with the code style formatting and syntax(coding standard)
-
-1. pylint
-2. flake8(it is best because it containt 3 library pylint pycodestyle mccabe)
-3. pycodestyle
-
-
